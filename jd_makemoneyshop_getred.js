@@ -1,7 +1,7 @@
 /*
 赚钱大赢家兑换50
 
-58 59 23 * * * jd_makemoneyshop_getred.js
+58 16 * * * jd_makemoneyshop_getred.js
 默认换50，可改id
 "id": "8609ec76a8a70db9a5443376d34fa26a" 50元
 "id": "b141ddd915d20f078d69f6910b02a60a" 8元
